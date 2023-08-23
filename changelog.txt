@@ -1,0 +1,4 @@
+Rewrited gui
+Added new proxy checking system
+Reorganize files
+Added settings.py
